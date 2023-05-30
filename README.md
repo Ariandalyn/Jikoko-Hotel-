@@ -45,7 +45,7 @@ To install and set up the Jikoko Hotel System, follow these steps:
 
    - Locate the import feature or option in your MySQL client's interface.
 
-   - Choose the SQL file from your computer and initiate the import process.
+   - Choose the SQL file from your computer to the project folder.
 
    - Wait for the import to complete.
 
